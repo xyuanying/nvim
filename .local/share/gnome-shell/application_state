@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="536" last-seen="1648895999"/>
+    <application id="xfce4-terminal.desktop" score="0" last-seen="1648881405"/>
+    <application id="gnome-initial-setup.desktop" score="4" last-seen="1648864838"/>
+    <application id="org.gnome.FileRoller.desktop" score="6" last-seen="1648871927"/>
+    <application id="org.gnome.Terminal.desktop" score="368" last-seen="1648907911"/>
+    <application id="org.gnome.gedit.desktop" score="0" last-seen="1648871879"/>
+    <application id="org.gnome.Software.desktop" score="39" last-seen="1648871925"/>
+    <application id="firefox-esr.desktop" score="1651" last-seen="1648907925"/>
+    <application id="thunar.desktop" score="2" last-seen="1648871950"/>
+    <application id="gnome-control-center.desktop" score="50" last-seen="1648892301"/>
+    <application id="yelp.desktop" score="1" last-seen="1648864847"/>
+    <application id="org.gnome.Extensions.desktop" score="2" last-seen="1648881356"/>
+    <application id="org.gnome.Cheese.desktop" score="0" last-seen="1648881331"/>
+  </context>
+</application-state>
